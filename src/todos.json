@@ -1,0 +1,35 @@
+{
+  "todos":[
+  {
+    "title": "tarea1",
+    "responsible": "Gonz",
+    "description": "lorem impsum1",
+    "priority": "media"
+
+  },
+  {
+    "title": "tarea2",
+    "responsible": "Agustin",
+    "description": "lorem impsum 2",
+    "priority": "baja"
+
+  },
+  {
+    "title": "tarea3",
+    "responsible": "Molly",
+    "description": "lorem impsum 3",
+    "priority": "alta"
+
+  },
+  {
+    "title": "tarea4",
+    "responsible": "Diego",
+    "description": "lorem impsum 4",
+    "priority": "alta"
+
+  }
+
+  ]
+
+
+}
